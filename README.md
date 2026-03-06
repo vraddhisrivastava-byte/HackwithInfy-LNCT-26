@@ -1,2 +1,1 @@
-# ARRAY
-problems on ARRAY
+Hackwithinfy LNCT'26
