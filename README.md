@@ -1,2 +1,1 @@
-#ARRAY
-all about ARRAY
+ALL ABOUT ARRAY
