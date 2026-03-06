@@ -1,1 +1,2 @@
-Hackwithinfy LNCT'26
+#ARRAY
+all about ARRAY
