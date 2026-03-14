@@ -20,6 +20,4 @@ Each solution includes:
 ✔ Python implementation
 ✔ Explanation of the approach
 
-💻 Languages Used
-
-Python
+Languages Used: Python
