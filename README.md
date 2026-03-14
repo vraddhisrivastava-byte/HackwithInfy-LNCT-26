@@ -6,12 +6,12 @@ The goal of this repository is to strengthen my problem-solving skills, data str
 Repository Structure
 
 The repository contains solutions to problems related to:
-Arrays
-Strings
-Recursion
-Dynamic Programming
-Searching & Sorting
-Greedy Algorithms
-Pattern / Logical Problems
+-Arrays
+-Strings
+-Recursion
+-Dynamic Programming
+-Searching & Sorting
+-Greedy Algorithms
+-Pattern / Logical Problems
 
 Languages Used: Python
