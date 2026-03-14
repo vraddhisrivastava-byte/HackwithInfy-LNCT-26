@@ -14,10 +14,4 @@ Searching & Sorting
 Greedy Algorithms
 Pattern / Logical Problems
 
-Each solution includes:
-
-✔ Problem statement
-✔ Python implementation
-✔ Explanation of the approach
-
 Languages Used: Python
